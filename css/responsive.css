@@ -39,16 +39,16 @@
     }
 
     header h1 {
-        font-size: 24px;
+        font-size: 40px;
     }
 
     header nav a {
-        font-size:  1em;
+        font-size: 2em;
     }
     
     main .techs .cards-conteiner .card{
-        width: 90px;
-        height: 60px;
+        width: 160px;
+        height: 70px;
     }
 
     main .main-content .text h2 .main-content .techs {
